@@ -1,7 +1,7 @@
 # spreadsheet-po-proj
 A project done for the Object-Oriented Programming lecture (Instituto Superior Técnico) involving spreadsheets.
 Essentially a terminal-only Excel copy.
-
+Done in collaboration with Rodrigo Salgueiro.
 ## Releases
 
 | Release       | Description                                                    |
